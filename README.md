@@ -1,4 +1,4 @@
-# Terraform
+# Terraform for AWS Provisioning
 I'll take you through my journey of learning Terraform and how I used it to provision AWS services quickly and efficiently. Plus, I'll share step-by-step instructions to help you get started on your Terraform adventure too! 🏄
 
 Background:
